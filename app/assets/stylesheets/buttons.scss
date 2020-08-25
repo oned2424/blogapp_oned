@@ -8,3 +8,15 @@
   padding: 16px 0;
   font-weight: bold;
 }
+
+.btn-secondary {
+  background-color: white;
+  // border: solid 1px $primary-color;
+  border: solid 1px red;
+  width: 100%;
+  text-align: center;
+  // color: $primary-color;
+  color: red;
+  padding: 16px 0;
+  font-weight: bold;
+}
